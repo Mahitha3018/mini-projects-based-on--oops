@@ -1,4 +1,4 @@
-# mini-projects-based-on--oops
+# mini-projects-based-on--loops
 
 This repository contains beginner-friendly Python mini projects created to practice
 **for loops** and **while loops**.
